@@ -10,6 +10,6 @@ The project is built using<br/><br/>
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Vedant-Jayesh-Oza/Dbank-Motoko/search?l=html)&nbsp;
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Vedant-Jayesh-Oza/Dbank-Motoko/search?l=css)&nbsp;
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Vedant-Jayesh-Oza/Dbank-Motoko/search?l=javascript)
-[![MOTOKO](https://img.shields.io/badge/motoko%20-%23323330.svg?&style=for-the-badge&logo=motoko&logoColor=%23F7DF1E)](https://github.com/Vedant-Jayesh-Oza/Dbank-Motoko/search?l=motoko)
+[![MOTOKO](https://img.shields.io/badge/motoko%20-%23323330.svg?&style=for-the-badge&logo=motoko&logoColor=%23F7DF1E)]([https://github.com/Vedant-Jayesh-Oza/Dbank-Motoko/search?l=motoko](https://github.com/Vedant-Jayesh-Oza/Dbank-Motoko/blob/main/src/dbank/main.mo))
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&color=green">
